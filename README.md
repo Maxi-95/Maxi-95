@@ -41,11 +41,7 @@
           <li>Node.js</li>
           <li>Sql</li>
           <li>Sequelize</li>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
+         <br>
          </ul>
       </td>
     </tr>
