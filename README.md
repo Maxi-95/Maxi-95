@@ -1,13 +1,13 @@
 
 <div>
- <div> <h2>Maximiliano Fonseca</h2><p>Full Stack Developer</p>
+ <div> <h2>Maximiliano Fonseca</h2><p>Full Stack Developer :computer:</p>
   
   </div>
-  <div><h3>Sobre mi :couple_with_heart:</h3>
+  <div><h3>Sobre mi </h3>
   <p>Soy un Full Stack Developer y Diseñador Grafico con las habilidades y
 conocimientos para llevar a cabo desarrollos y proyectos web, con buena
 predisposicíon a la hora de trabajar en equipo</p></div>
- <h2>Front-End</h2>
+ <h2>Front-End :page_facing_up:</h2>
  <div>
   <table>
     <tr>
@@ -31,7 +31,7 @@ predisposicíon a la hora de trabajar en equipo</p></div>
     </tr>
   </table>
 </div>
- <h2>Back-End</h2>
+ <h2>Back-End :page_facing_up:</h2>
  <div>
   <table>
     <tr>
@@ -57,6 +57,6 @@ predisposicíon a la hora de trabajar en equipo</p></div>
 </div>
 </div>
 
-
-
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximilianofonseca19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-maximiliano-fonseca-20ab32234/)
 
