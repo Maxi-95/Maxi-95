@@ -3,7 +3,7 @@
  <div> <h2>Maximiliano Fonseca</h2><p>Full Stack Developer</p>
   
   </div>
-  <div><h3>Sobre mi</h3>
+  <div><h3>Sobre mi :couple_with_heart:</h3>
   <p>Soy un Full Stack Developer y Diseñador Grafico con las habilidades y
 conocimientos para llevar a cabo desarrollos y proyectos web, con buena
 predisposicíon a la hora de trabajar en equipo</p></div>
