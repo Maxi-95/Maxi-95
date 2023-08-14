@@ -1,11 +1,3 @@
-### Maximiliano Fonseca
-
-- Contenido 1
-- Contenido 2
-
-Full Stack Developer
-
-![Imagen](https://www.ceupe.com/images/easyblog_articles/3583/b2ap3_large_profesion-de-programador-web.jpg)
 
 <div>
   <div style="float: left; width: 50%;">
@@ -23,5 +15,20 @@ Full Stack Developer
   
   <div style="clear: both;"></div>
 </div>
+
+<div>
+  <table>
+    <tr>
+      <td width="50%">
+        - Contenido 1
+        - Contenido 2
+      </td>
+      <td width="50%">
+        <img src="https://www.ceupe.com/images/easyblog_articles/3583/b2ap3_large_profesion-de-programador-web.jpg" alt="imagen" width="250" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
