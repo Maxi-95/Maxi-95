@@ -19,13 +19,8 @@
 <div>
   <table border="none">
     <tr>
-      <td >
-        - Contenido 1
-        - Contenido 2
-      </td>
-      <td>
-        <img src="https://www.ceupe.com/images/easyblog_articles/3583/b2ap3_large_profesion-de-programador-web.jpg" alt="imagen" width="250" />
-      </td>
+     <div>afeafaf</div>
+     <div>afeafaf</div>
     </tr>
   </table>
 </div>
