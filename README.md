@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <table>
+  <table border="none">
     <tr>
       <td >
         - Contenido 1
