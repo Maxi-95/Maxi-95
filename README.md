@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 | Contenido 1 | Contenido 2 |
 | ----------- | ----------- |
 | Celda 1     | Celda 2     |
+  
+</div>
