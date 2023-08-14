@@ -54,7 +54,7 @@ predisposicíon a la hora de trabajar en equipo</p></div>
       </td>
     </tr>
   </table>
-</div>
+</div> 
 </div>
 <h2>Contacto:</h2>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximilianofonseca19@gmail.com)
