@@ -3,8 +3,6 @@
  <div> <h2>Maximiliano Fonseca</h2><p>Full Stack Developer</p>
     
   </div>
-
-</br>
   
  <h3>Front-End</h3>
  <div>
@@ -24,7 +22,7 @@
       
 </ul> 
       </td>
-      <td >
+      <td width="320">
         <img src="https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg" alt="" width="320" />
       </td>
     </tr>
