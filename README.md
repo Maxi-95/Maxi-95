@@ -3,6 +3,9 @@
  <div> <h2>Maximiliano Fonseca</h2><p>Full Stack Developer</p>
     
   </div>
+
+</br>
+  
  <h3>Front-End</h3>
  <div>
   <table>
