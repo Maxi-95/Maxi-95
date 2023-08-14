@@ -8,8 +8,8 @@
  <div>
   <table>
     <tr>
-      <td >
-       <ul width="320">
+      <td width="320">
+       <ul >
   <li>JavaScript</li>
   <li>Html</li>
   <li>CSS</li>
