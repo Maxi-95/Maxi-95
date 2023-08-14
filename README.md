@@ -31,13 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <tr>
-    <td>
-      <div>Contenido 1</div>
-    </td>
-    <td>
-      <div >Contenido 2</div>
-    </td>
-  </tr>
-</table>
+| Contenido 1 | Contenido 2 |
+| ----------- | ----------- |
+| Celda 1     | Celda 2     |
