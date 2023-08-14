@@ -19,11 +19,11 @@
 <div>
   <table>
     <tr>
-      <td width="50%">
+      <td >
         - Contenido 1
         - Contenido 2
       </td>
-      <td width="50%">
+      <td>
         <img src="https://www.ceupe.com/images/easyblog_articles/3583/b2ap3_large_profesion-de-programador-web.jpg" alt="imagen" width="250" />
       </td>
     </tr>
