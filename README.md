@@ -9,7 +9,7 @@
   <table>
     <tr>
       <td >
-       <ul>
+       <ul width="320">
   <li>JavaScript</li>
   <li>Html</li>
   <li>CSS</li>
@@ -22,7 +22,7 @@
       
 </ul> 
       </td>
-      <td width="320">
+      <td >
         <img src="https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg" alt="" width="320" />
       </td>
     </tr>
