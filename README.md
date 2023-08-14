@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <div class="caja caja1">Contenido 1</div>
+      <div>Contenido 1</div>
     </td>
     <td>
-      <div class="caja caja2">Contenido 2</div>
+      <div >Contenido 2</div>
     </td>
   </tr>
 </table>
