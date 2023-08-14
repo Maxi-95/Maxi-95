@@ -29,7 +29,7 @@
   <table>
     <tr>
       <td >
-        <img src="https://www.ceupe.com/images/easyblog_articles/3583/b2ap3_large_profesion-de-programador-web.jpg" alt="imagen" width="250" />
+        <img src="https://media.proglib.io/posts/2019/11/03/c236c35c960c7016e0d785b0558026c4.png" alt="imagen" width="250" />
       </td>
       <td >
         - Express
