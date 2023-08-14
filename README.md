@@ -1,6 +1,6 @@
 ### Maximiliano Fonseca 👋
-<div aling="center">
-  <div>
+<div >
+  <div aling="center">
   Full Stack Developer
   </div>
   <div>dwdfawf</div>
