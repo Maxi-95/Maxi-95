@@ -4,7 +4,7 @@
   
   </div>
   <div><h3>Sobre mi:</h3>
-  <p>Soy un Full Stack Developer y Diseñador Grafico con las habilidades y
+  <p>Soy un Full Stack Developer con las habilidades y
 conocimientos para llevar a cabo desarrollos y proyectos web, con buena
 predisposicíon a la hora de trabajar en equipo</p></div>
  <h2>Front-End :page_facing_up:</h2>
