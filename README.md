@@ -4,7 +4,7 @@
     
   </div>
   
- <h3>Front-End</h3>
+ <h2>Front-End</h2>
  <div>
   <table>
     <tr>
@@ -28,7 +28,7 @@
     </tr>
   </table>
 </div>
- <h3>Back-End</h3>
+ <h2>Back-End</h2>
  <div>
   <table>
     <tr>
