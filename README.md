@@ -9,7 +9,7 @@
     <p>Full Stack Developer</p>
   </div>
   
-  <div style="float: right; width: 50%;"> <h3>Maximiliano Fonseca</h3><p>Full Stack Developer</p>
+  <div style="float: right; width: 50%;"> Maximiliano Fonseca
     <img src="https://www.ceupe.com/images/easyblog_articles/3583/b2ap3_large_profesion-de-programador-web.jpg" alt="imagen" width="250" />
   </div>
   
