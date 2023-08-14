@@ -16,14 +16,6 @@
   <div style="clear: both;"></div>
 </div>
 
-<div>
-  <table border="none">
-    <tr>
-     <div>afeafaf</div>
-     <div>afeafaf</div>
-    </tr>
-  </table>
-</div>
 
 
 
