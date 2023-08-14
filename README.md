@@ -19,7 +19,8 @@
         - Figma   
       </td>
       <td >
-        <img src=" https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg" alt="" width="250" />
+        <img src="https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg
+         " alt="" width="250" />
       </td>
     </tr>
   </table>
