@@ -1,5 +1,5 @@
 ### Maximiliano Fonseca 👋
-<div background="red">
+<div>
   <div align="center">
   Full Stack Developer
   </div>
