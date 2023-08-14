@@ -22,8 +22,8 @@
       
 </ul> 
       </td>
-      <td >
-        <img src="https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg" alt="" width="320" />
+      <td width="320">
+        <img src="https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg" alt="" width="300" />
       </td>
     </tr>
   </table>
@@ -32,10 +32,10 @@
  <div>
   <table>
     <tr>
-      <td >
-        <img src="https://media.proglib.io/posts/2019/11/03/c236c35c960c7016e0d785b0558026c4.png" alt="imagen" width="320" />
+      <td width="320">
+        <img src="https://media.proglib.io/posts/2019/11/03/c236c35c960c7016e0d785b0558026c4.png" alt="imagen" width="300" />
       </td>
-      <td >
+      <td width="320">
          <ul>
           <li>Express</li>
           <li>Node.js</li>
