@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tr>
+    <td>
+      <div class="caja caja1">Contenido 1</div>
+    </td>
+    <td>
+      <div class="caja caja2">Contenido 2</div>
+    </td>
+  </tr>
+</table>
