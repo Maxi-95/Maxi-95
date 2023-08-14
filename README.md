@@ -1,6 +1,16 @@
 
 ### Maximiliano Fonseca 
 <div>
+  <table>
+  <tr>
+    <td>
+      <div>Contenido 1</div>
+    </td>
+    <td>
+      <div >Contenido 2</div>
+    </td>
+  </tr>
+</table>
   <div >
   Full Stack Developer
   </div >
