@@ -8,15 +8,18 @@
   <table>
     <tr>
       <td >
-        - JavaScript
-        - Html
-        - CSS
-        - Diseñador Grafico
-        - React   
-        - Redux   
-        - Material-UI   
-        - Tailwind   
-        - Figma   
+       <ul>
+  <li>JavaScript</li>
+  <li>Html</li>
+  <li>CSS</li>
+  <li>Diseñador Grafico</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Material-UI</li>
+  <li>Tailwind</li>
+  <li>Figma</li>
+      
+</ul> 
       </td>
       <td >
         <img src="https://outsourcing.team/wp-content/uploads/2019/01/Navyki-Front-End-razrabotchika.jpg" alt="" width="250" />
