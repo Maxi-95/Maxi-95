@@ -6,7 +6,7 @@
   <div><h3>Sobre mi:</h3>
   <p>Soy un Full Stack Developer con las habilidades y
 conocimientos para llevar a cabo desarrollos y proyectos web, con buena
-predisposicíon a la hora de trabajar en equipo</p></div>
+predisposicíon a la hora de trabajar en equipo</p><p>-Me considero un programador CREATIVO, desde que era niño siempre me gusto dibujar, el arte visual era alguno con el que siempre me eh sentido familiarizado, ahora elijo el mundo Front-end como mi mundo.</p></div>
  <h2>Front-End :page_facing_up:</h2>
  <div>
   <table>
