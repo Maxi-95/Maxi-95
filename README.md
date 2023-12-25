@@ -18,6 +18,7 @@ predisposicíon a la hora de trabajar en equipo</p><p>-Me considero un programad
   <li>CSS</li>
   <li>Diseñador Grafico</li>
   <li>React</li>
+  <li>Python</li>
   <li>Redux</li>
   <li>Material-UI</li>
   <li>Tailwind</li>
