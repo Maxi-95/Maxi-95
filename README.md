@@ -4,9 +4,7 @@
   
   </div>
   <div><h3>Sobre mi:</h3>
-  <p>Soy un Full Stack Developer con las habilidades y
-conocimientos para llevar a cabo desarrollos y proyectos web, con buena
-predisposicíon a la hora de trabajar en equipo</p><p>-Me considero un programador CREATIVO, desde que era niño siempre me gusto dibujar, el arte visual era alguno con el que siempre me eh sentido familiarizado, ahora elijo el mundo Front-end como mi mundo.</p></div>
+  <p>Soy Maxi, un apasionado Full Stack Developer con experiencia en el diseño y desarrollo integral de aplicaciones web. Mi enfoque abarca desde la creación de interfaces atractivas en el front-end hasta la implementación robusta de sistemas en el back-end. Con habilidades sólidas en tecnologías como Javascript y React, me destaco por mi capacidad para traducir ideas creativas en soluciones funcionales y eficientes. Mi misión es aportar innovación y excelencia técnica a cada proyecto pero tambien, aportar valor como persona, con actitudes profecionales. ¡Conéctame para explorar oportunidades de colaboración!</p></div>
  <h2>Front-End :page_facing_up:</h2>
  <div>
   <table>
