@@ -18,7 +18,6 @@ predisposicíon a la hora de trabajar en equipo</p><p>-Me considero un programad
   <li>CSS</li>
   <li>Diseñador Grafico</li>
   <li>React</li>
-  <li>Python</li>
   <li>Redux</li>
   <li>Material-UI</li>
   <li>Tailwind</li>
@@ -45,6 +44,7 @@ predisposicíon a la hora de trabajar en equipo</p><p>-Me considero un programad
           <li>Node.js</li>
           <li>Sql</li>
           <li>Sequelize</li>
+          <li>Python</li>
          <br>
           <br>
           <br>
@@ -63,4 +63,5 @@ predisposicíon a la hora de trabajar en equipo</p><p>-Me considero un programad
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximilianofonseca19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-maximiliano-fonseca-20ab32234/)
 [![Behance](https://img.shields.io/badge/-BEHANCE-0077B5?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maximilianofonseca95)
+[![maletin](https://portafolio-khaki-seven.vercel.app/)
 
